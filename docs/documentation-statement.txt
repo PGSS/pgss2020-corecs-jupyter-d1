@@ -1,0 +1,15 @@
+https://jupyter4edu.github.io/jupyter-edu-book/getting-going.html#jupyter-on-remote-servers
+A really good web book on using Juypter for Education. Won me over for really 
+Going all in with Juypter for this course.
+
+https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md
+A more directed tutorial on using Binder to provide a Jupyter env to students,
+in Python.
+
+https://github.com/trekhleb/homemade-machine-learning
+The repo used by the tutorial above
+
+https://mybinder.readthedocs.io/en/latest/index.html
+Primary source docs for Binder. Helped me clarify that this free service should
+be able to handle ~60 students (they'll handle up to 100). Also gave some specs
+about the max container they will provide to any student.
