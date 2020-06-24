@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/syreal17/pgss2020-corecs-juypter-d1.git/master)
+
 # pgss2020-corecs-juypter-d1
 Repo for Juypter notebooks intended to be hosted by Binder.
 
