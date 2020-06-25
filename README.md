@@ -30,7 +30,7 @@ close the tab.
 This does take a few minutes, usually. A computer is being born (and 
 waking up).
 
-3. 
+3. Get a Terminal.
 
   - Select "New" on the upper right side of the next screen.
   
