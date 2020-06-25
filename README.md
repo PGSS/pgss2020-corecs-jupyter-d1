@@ -32,9 +32,9 @@ waking up).
 
 3. 
 
-  1. Select "New" on the upper right side of the next screen.
+  - Select "New" on the upper right side of the next screen.
   
-  2. Select "Terminal" in that dropdown menu.
+  - Select "Terminal" in that dropdown menu.
 
 ![Start new Jupyter terminal](img/StartJuypterTerminalScreen.png)
 
