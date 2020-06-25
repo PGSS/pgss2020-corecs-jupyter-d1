@@ -22,7 +22,7 @@ close the tab.
 ## Getting to your Shiny, New, Ephemeral Linux Environment
 
 1. Click on the "Launch Binder" button at the top of this document
-\[TODO: insert screenshot\]
+![Launch Binder button](img/LaunchBinderScreen.png)
 
 2. Wait a few minutes for your new Linux environment to start
 \[TODO: insert screenshot\]
