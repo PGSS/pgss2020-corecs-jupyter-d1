@@ -25,20 +25,27 @@ close the tab.
 ![Launch Binder button](img/LaunchBinderScreen.png)
 
 2. Wait a few minutes for your new Linux environment to start
-\[TODO: insert screenshot\]
+![Wait for Binder](img/WaitForBinderScreen.png)
 
 This does take a few minutes, usually. A computer is being born (and 
-booting up).
+waking up).
 
 3. 
+
   1. Select "New" on the upper right side of the next screen.
+  
   2. Select "Terminal" in that dropdown menu.
-\[TODO: insert screenshot\]
+
+![Start new Jupyter terminal](img/StartJuypterTerminalScreen.png)
 
 4. Type the following command into your new Terminal and press the Enter key:
 
-`python mystery-code.py`
-\[TODO: insert screenshot\]
+`python demystified-code.py`
 
-5. Let a teacher know if you are not prompted for a number like so:
-\[TODO: insert screenshot\]
+![Run the Python script](img/PythonScriptScreen.png)
+
+5. Let an instructor know if you are not prompted for a number after you press enter, like so:
+
+![Proof that the script started correctly](img/ScriptRunningScreen.png)
+
+That is the way to run scripts that can be interacted with!
