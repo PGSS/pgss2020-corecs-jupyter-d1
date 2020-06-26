@@ -1,12 +1,10 @@
-# Reference alphabet
-alphabet = "!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
-code = """
 # Hiding this really important number in an obscure piece of code is brilliant!
 # AND it's encrypted!
 # We want our biggest client to know his information is safe with us.
 bezos_cc_secret = "_aeg\\e`aa\\bg`g\\`beg"
-
-
+# Reference alphabet
+alphabet = "!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
+code = """
 def decode_secret(secret):
     
     # Encryption key
