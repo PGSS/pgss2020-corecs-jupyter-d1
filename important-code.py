@@ -3,16 +3,14 @@
 # We want our biggest client to know his information is safe with us.
 bezos_cc_secret = "_aeg\\e`aa\\bg`g\\`beg"
 
-
+    # Reference alphabet
+    alphabet = "!\"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
 
 def decode_secret(secret):
     """ROT47 decode
     
     NOTE: encode and decode are the same operation in the ROT cipher family.
     """
-    
-    # Reference alphabet
-    alphabet = "!\"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
     
     # Encryption key
     rotate_const = 47
