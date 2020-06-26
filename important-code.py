@@ -3,8 +3,8 @@
 # We want our biggest client to know his information is safe with us.
 bezos_cc_secret = "_aeg\\e`aa\\bg`g\\`beg"
 
-    # Reference alphabet
-    alphabet = "!\"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
+# Reference alphabet
+alphabet = "!\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
 
 def decode_secret(secret):
     """ROT47 decode
