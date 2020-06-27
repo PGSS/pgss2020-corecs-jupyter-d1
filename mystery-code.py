@@ -1,12 +1,14 @@
-#!/bin/python
 
-storage_spot_1 = input()
-storage_spot_2 = input()
-storage_spot_3 = storage_spot_1
+def choose_one():
+	a = input("a = ")
+	b = input("b = ")
+	z = a
 
-if storage_spot_1 > storage_spot_2:
-	storage_spot_3 = storage_spot_1
-elif storage_spot_1 < storage_spot_2:
-	storage_spot_3 = storage_spot_2
+	if a > b:
+		z = a
+	elif a < b:
+		z = b
 
-print( storage_spot_3 )
+	print( "\n" + str(z) )
+
+choose_one()
