@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/syreal17/pgss2020-corecs-juypter-d1.git/master)
 
-# PGSS 2020 Core Computer Science Interactive Session for Day 1
+# PGSS 2020 CS Interactive Code Repo for Day 1
 This repository of code has a few snippets to get us into reading and 
 understanding Python, one of the most popular and well supported 
 programming languages in the last decade.
