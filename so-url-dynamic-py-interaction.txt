@@ -1,0 +1,3 @@
+NOTE: we are using Python 3 !!
+
+https://stackoverflow.com/questions/1027714/how-to-execute-a-file-within-the-python-interpreter/1027730
