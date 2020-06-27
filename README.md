@@ -18,8 +18,8 @@ resources.
 The link at the top of this page will give you a very small Linux
 machine to do some basic commands and Python work. To save anything
 from these sessions, you will have to copy and paste it out of the
-Juypter tab. The small Linux computer will cease to exist when you 
-close the tab.
+Juypter tab. *The small Linux computer will cease to exist when you 
+close the tab!*
 
 ## Getting to your Shiny, New, Ephemeral Linux Environment
 
