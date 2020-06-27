@@ -6,7 +6,9 @@ understanding Python, one of the most popular and well supported
 programming languages in the last decade.
 
 # Tutorial on Interacting with this Code
+
 ## Notes on these Environments
+
 ### These Environments are Donations from Good People
 Please note that the service I have elected to use for these demos
 is open-source and free to use. Please respect these computing 
@@ -34,7 +36,7 @@ waking up).
 
    - Select "New" on the upper right side of the next screen.
   
-     - Select "Terminal" in that dropdown menu.
+     - Select "Terminal" in that drop-down menu.
 
 ![Start new Jupyter terminal](img/StartJuypterTerminalScreen.png)
 
